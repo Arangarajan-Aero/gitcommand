@@ -1,0 +1,11 @@
+git init= to create empty git in working folder
+git add . to commit all the changed file in staging area
+git commit -m "comment"
+git push origin main it shows error because we are no create any repo in git
+so create repo in git 
+then  give command 
+git remote add origin <link of repo>
+git push origin main
+git branch =it show currently working branch
+git branch -m <branch name>our specified name
+git push origin namespecified
