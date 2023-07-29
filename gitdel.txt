@@ -1,0 +1,5 @@
+if any file is deleted in vs code that is not reflected in githum 
+to delete also in git hub
+git add <deleted file name in vs code>
+git commit -m "comit msg"
+git push origin main or specified name in branch
