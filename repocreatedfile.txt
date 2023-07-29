@@ -1,4 +1,5 @@
 i was created in git hub repo
 if u need this file in vc code
 use this command
-git pull
+git pull https://github.com/Arangarajan-Aero/gitcommand.git<repo link>
+
