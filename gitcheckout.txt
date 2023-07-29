@@ -1,0 +1,6 @@
+git branch -a to lis the current working branch and all other branch
+git checkout <branch name>
+used for change the branch
+then git add .
+git commit -m "comment"
+git push origin newbranch
