@@ -9,4 +9,4 @@ git push origin main
 git branch =it show currently working branch
 git branch -m <branch name>our specified name
 git push origin namespecified
-git pull
+git pull is created when u dont have accessesin main branch
